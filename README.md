@@ -1,4 +1,5 @@
-Temperature Anomaly Analysis
+Global Temperature Anomaly Analysis (Python)
+
 Project Overview
 
 This project analyses global temperature anomaly data using Python.
@@ -31,15 +32,23 @@ Column used: J-D (January–December annual average)
 
 Missing values handled appropriately (e.g. incomplete 2026 data)
 
-Results
+Results & Insights
 
-Clear upward trend in global temperature anomalies
+Global temperature anomalies show a clear long-term warming trend.
 
-Significant acceleration in warming after ~1980
+Warming accelerates significantly after ~1980.
 
-Highest anomaly occurs in recent decades
+The highest anomalies occur in the most recent years.
+
+Even small anomaly increases (e.g. +0.15°C) represent significant shifts in global climate systems.
 
 ![Temperature Trend](temperature_trend.png)
+
+Interpretation
+
+Temperature anomalies measure deviation from a baseline (1951–1980), making them more reliable than absolute temperatures for detecting climate trends.
+
+The data indicates a sustained and accelerating increase in global temperatures, consistent with broader climate science findings.
 
 Technologies Used
 
