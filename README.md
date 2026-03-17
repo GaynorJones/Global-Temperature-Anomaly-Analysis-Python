@@ -41,10 +41,6 @@ Highest anomaly occurs in recent decades
 
 ![Temperature Trend](temperature_trend.png)
 
-- Clear upward trend in global temperature anomalies
-
-- Significant acceleration in warming after ~1980
-
 Technologies Used
 
 Python
