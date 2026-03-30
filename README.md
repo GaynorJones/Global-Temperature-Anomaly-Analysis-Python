@@ -80,6 +80,17 @@ Updates
 - Highlighted extreme temperature years
 - Introduced decadal averaging for trend smoothing
 
+## Update Mar 30th 2026
+
+Produced multiple plots:
+Yearly anomalies (line plot with max/min points annotated)
+Scatter plot highlighting extreme years
+Decadal averages (bar chart, both pure Python and pandas version)
+Introduced pandas for data handling, demonstrating:
+Data cleaning with to_numeric and dropna()
+Grouping by decades with .groupby('Decade')['J-D'].mean()
+Optional features included annotating plots and wrapping pandas preprocessing into a function.
+
 👤 Author
 
 Gaynor Jones
