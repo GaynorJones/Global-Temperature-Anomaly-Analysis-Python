@@ -91,6 +91,22 @@ Data cleaning with to_numeric and dropna()
 Grouping by decades with .groupby('Decade')['J-D'].mean()
 Optional features included annotating plots and wrapping pandas preprocessing into a function.
 
+## Temperature Trend (Scatter Plot)
+
+![Temperature Trend](avg_anomalies-scatter-plot.png)
+
+## Extreme Years (Scatter Plot)
+
+![Extreme Years](anomalies_with_extremes.png)
+
+## Decadal Averages (Bar Chart)
+
+![Decadal Python](decadal_avg_anomalies.png)
+
+## Decadal Averages (Pandas)
+
+![Decadal Pandas](decadal_avg_anomalies_pandas.png)
+
 👤 Author
 
 Gaynor Jones
