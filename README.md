@@ -107,6 +107,26 @@ Optional features included annotating plots and wrapping pandas preprocessing in
 
 ![Decadal Pandas](decadal_avg_anomalies_pandas.png)
 
+## Conclusions
+
+- Global temperature anomalies show a clear long-term warming trend, particularly accelerating after ~1980.
+
+- While individual years fluctuate above and below the baseline, decadal averages smooth out this variability and reveal a consistent upward trend.
+
+- Extreme years (defined as values more than 2 standard deviations from the mean) become more frequent in recent decades, indicating increasing variability alongside overall warming.
+
+- The analysis highlights the importance of distinguishing between:
+  - Short-term variability (year-to-year changes)
+  - Long-term climate trends (multi-decade warming)
+
+- Comparing pure Python and pandas approaches shows that:
+  - Pure Python provides transparency and understanding of the underlying calculations
+  - pandas enables faster, more efficient data analysis for larger datasets
+
+This project demonstrates how simple data analysis techniques can reveal meaningful climate patterns using real-world environmental data.
+
+Future work could include seasonal analysis, regional comparisons, or applying regression models to quantify warming trends.
+
 👤 Author
 
 Gaynor Jones
